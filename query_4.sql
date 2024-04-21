@@ -1,2 +1,2 @@
 SELECT ROUND(AVG(grade)) average_grade
-FROM grades 
+FROM grades
